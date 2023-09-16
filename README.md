@@ -1,1 +1,2 @@
-# resellerspanel
+# ResellerPanel.com PHP API Wrapper
+
