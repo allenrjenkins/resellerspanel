@@ -2,7 +2,7 @@
 
 # Description
 
-Resellers Panel allows you to start your own hosting business with our free reseller platform. There are no deposits to pay, or recurring fees to cover.  This API wrappers gives you a starter wrapper to connect to the Resellers Panel API within minutes.
+Resellers Panel allows you to start your own hosting business with their free reseller platform. There are no deposits to pay, or recurring fees to cover.  This API wrappers gives you a starter wrapper to connect to the Resellers Panel API within minutes.
 
 # API Documentation
 
