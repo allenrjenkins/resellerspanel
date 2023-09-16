@@ -1,16 +1,20 @@
 {
-  "name": "allenrjenkins/resellerspanel",
-  "description": "The Unofficial Resellers Panel PHP API Wrapper",
-  "type": "library",
-  "require": {
-    "php": ">=5.3.0"
-  },
-  "license": "proprietary",
-  "authors": [
-    {
-      "name": "Allen Jenkins",
-      "email": "allenrjenkins@gmail.com"
-    }
-  ],
-  "minimum-stability": "dev"
+    "name": "allenrjenkins/resellerspanel",
+    "description": "The Unofficial Resellers Panel PHP API Wrapper",
+    "type": "library",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Allen Jenkins",
+            "email": "allenrjenkins@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ResellersPanel\\": "src/ResellersPanel"
+        }
 }
